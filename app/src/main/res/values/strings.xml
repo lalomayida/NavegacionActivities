@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegacionActivities</string>
+    <string name="edit_message">Enter your mail</string>
+    <string name="name_field">Enter your first name</string>
+    <string name="lastName_field">Enter your last name</string>
+    <string name="surname_field">Enter your surname</string>
+    <string name="button_send">Send Fields</string>
+</resources>
